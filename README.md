@@ -59,8 +59,6 @@
 
 ## Pré-requisitos
 
-:warning: [Node](https://nodejs.org/en/download/)
-
 :warning: [Python](https://www.python.org/downloads/)
 
 
